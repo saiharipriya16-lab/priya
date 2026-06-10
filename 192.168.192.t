@@ -1,9 +1,0 @@
-
-Pinging 0.0.0.35 with 32 bytes of data:
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-
-Ping statistics for 0.0.0.35:
-    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
